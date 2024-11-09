@@ -5,7 +5,7 @@ I'm **Abhisangh Singh Arora**, a passionate **Data Scientist** with strong exper
 - 🔭 I’m currently working on:
   - **Distributed Audio Processing Pipeline**: Spearheading the development of a data pipeline processing over 20 hours of audio data, leveraging **HuBERT models** to improve communication pattern recognition by 5%. [Arlington Computational Linguistics Lab](https://uta-acl2.github.io/people.html)
   - **Smart Nutrition Buddy**: An AI-powered nutrition analysis app for instant food recognition and detailed nutritional insights. [Check it out here!](https://neutrify.streamlit.app/)
-  - **HomeCare Hub**: Created at [HACKuta23](https://hackuta2023.devpost.com/submissions/search?utf8=%E2%9C%93&terms=homecare&sort=), this unified platform tackles home maintenance challenges, allowing users to book essential services, provide feedback, and browse available options with transparent pricing. Built with Python, Streamlit, and Firebase, it remains a practical solution inspired by everyday urban life challenges. [Check it out here!](https://homecarepy-utahackathon23.streamlit.app/)
+  - **HomeCare Hub**: Created at [HackUTA23](https://hackuta2023.devpost.com/submissions/search?utf8=%E2%9C%93&terms=homecare&sort=), this unified platform tackles home maintenance challenges, allowing users to book essential services, provide feedback, and browse available options with transparent pricing. Built with Python, Streamlit, and Firebase, it remains a practical solution inspired by everyday urban life challenges. [Check it out here!](https://homecarepy-utahackathon23.streamlit.app/)
 
 - 🌱 I’m currently learning:
   - Advanced **Generative AI** and **Large Language Models (LLMs)**.
