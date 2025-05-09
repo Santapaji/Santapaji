@@ -2,7 +2,7 @@
 
 I'm **Abhisangh Singh Arora**, a passionate **Gen AI developer** with strong expertise in **Python**, **Machine Learning**, and **Cloud Technologies**. I excel in managing ambiguity, developing and optimizing software solutions, and advancing data-driven decision-making.
 
-- 🔭 I’m currently working with Perficient & BCBSMA on **Benefit Assist**, an AI-driven healthcare benefit assist agent to streamline customer query resolution for member support teams, minimizing response times significantly. :
+- 🔭 I’m currently working with Perficient & BCBSMA on **Benefit Assist**, an AI-driven healthcare benefit assist agent to streamline customer query resolution for member support teams, minimizing response times significantly.
 - My recent Experiences include:- 
   - **Distributed Audio Processing Pipeline**: Spearheading the development of a data pipeline processing over 20 hours of audio data, leveraging **HuBERT models** to improve communication pattern recognition by 5%. [Arlington Computational Linguistics Lab](https://uta-acl2.github.io/people.html)
   - **Smart Nutrition Buddy**: An AI-powered nutrition analysis app for instant food recognition and detailed nutritional insights. [Check it out here!](https://neutrify.streamlit.app/)
